@@ -37,13 +37,13 @@ Se entiende la incidencia de la fibra optica en la tasa de variacion de conexion
 ______________________________________________________________________________________________________________________________________________
 
 
-KPI 1 = (Tasa de variacion de conexiones por hogar)
+KPI 1 = (Tasa de Variacion promedio de conexiones por fibra optica sobre conexiones cada 100 hogares)
 
-KPI 2 = (Tasa de variacion de conexiones por fibra optica)/(Tasa de variacion de conexiones por hogar)
+KPI 2 = (Tasa de Variacion promedio de conexiones cada 100 hogares por trimestre)
 
-KPI 3 = (Tasa de variacion de ingreso a nivel nacional)
+KPI 3 = (Tasa de Variacion promedio de  ingresos por trimestre)
 
-KPI 4 = (Promedio de conexiones cada 100 hogares por trimestre)
+KPI 4 = (Tasa de Variacion promedio de conexiones por fibra optica por trimestre)
 
 _____________________________________________________________________________________________________________________________
 
